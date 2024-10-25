@@ -41,11 +41,8 @@ public class matrixmultiplication
                     for(int k=0;k<r2;k++)
                     {
                         arr3[i][j]+=arr1[i][k]*arr2[k][j];
-                        
                     }
-                   
                     System.out.print(arr3[i][j]+" ");
-                    
                 }
                 System.out.println();
             }
