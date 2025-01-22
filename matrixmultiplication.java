@@ -1,5 +1,5 @@
 import java.util.*;
-public class matrixmultiplication
+public class Matrixmultiplication
 {
     public static void main(String args[])
     {
